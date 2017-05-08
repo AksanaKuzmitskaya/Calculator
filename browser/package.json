@@ -1,0 +1,20 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "server side - calculator",
+  "main": "server-with-browser.js",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  },
+  "scripts": {
+    "test": "test",
+    "dev": "nodeman calculator"
+  },
+  "author": "",
+  "license": "ISC"
+}

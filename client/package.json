@@ -1,0 +1,22 @@
+{
+  "name": "client-calculator",
+  "version": "1.0.0",
+  "description": "client side - calculator",
+  "main": "client-calculator.js",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "fetch": "^1.1.0",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  },
+  "scripts": {
+    "test": "test",
+    "dev": "nodeman client-calculator"
+  },
+  "author": "",
+  "license": "ISC"
+}
